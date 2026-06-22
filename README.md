@@ -1,12 +1,22 @@
 <div align="center">
 
-# Building Scalable Digital Products
+# Nexora Labs
 
-Nexora Labs is a digital product engineering studio focused on building scalable, reliable, and maintainable software products.
+### Building Scalable Digital Products
+
+Modern web, mobile, backend, and SaaS engineering.
 
 🌍 Dindigul, Tamil Nadu, India
 
 🌐 https://nexora-website-smoky.vercel.app
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700"/>
 
 </div>
 
@@ -18,38 +28,38 @@ Nexora Labs is a digital product engineering studio focused on building scalable
 📱 Mobile Applications  
 ⚙️ Backend Systems  
 ☁️ SaaS Platforms  
-🛒 E-commerce Solutions  
+🛒 E-commerce Platforms  
 🔧 Maintenance & Scaling  
 
 ---
 
 # Technology Stack
 
-## Frontend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,html,css,vite" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,html,css" />
 </p>
 
-## Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=laravel,php,nodejs" />
 </p>
 
-## Mobile
+### Mobile
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-## Database & Platform
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase" />
 </p>
 
-## Tools & Workflow
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,npm" />
@@ -60,34 +70,26 @@ Nexora Labs is a digital product engineering studio focused on building scalable
 # Engineering Principles
 
 ✓ Practical Engineering  
-✓ Scalable Architecture  
-✓ Clean Code Practices  
+✓ Scalable Systems  
 ✓ API First Development  
+✓ Clean Architecture  
 ✓ Long-Term Maintainability  
-✓ Production Ready Systems  
 
 ---
 
 # Current Focus
 
-Building modern digital products using:
-
-- Next.js
-- Laravel
-- Flutter
-- TypeScript
-- Supabase
-- MySQL
+Building reliable digital products with modern technologies and production-ready workflows.
 
 ---
 
 # Featured Project
 
-### Nexora Website
+## Nexora Website
 
-Production-ready agency website built with:
+Built with:
 
-Next.js 15 • Tailwind CSS • Framer Motion • TypeScript • Vercel
+Next.js 15 • Tailwind CSS • TypeScript • Framer Motion • Vercel
 
 → https://nexora-website-smoky.vercel.app
 
@@ -95,6 +97,6 @@ Next.js 15 • Tailwind CSS • Framer Motion • TypeScript • Vercel
 
 <div align="center">
 
-### Build Practical. Scale Confidently.
+### Build Practical • Scale Confidently
 
 </div>
