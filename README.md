@@ -4,134 +4,129 @@
 
 ### Building Scalable Digital Products
 
-Digital product engineering focused on scalable software, modern user experiences, and maintainable systems.
+Digital product engineering focused on scalable software and modern systems.
 
-🌍 Dindigul, Tamil Nadu, India
-
+🌍 Dindigul, Tamil Nadu, India  
 🌐 https://nexora-website-smoky.vercel.app
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,laravel,php,flutter,dart,mysql,supabase,git,github,vercel,vscode,postman"/>
-
-</div>
-
 ---
 
-# About
-
-Nexora Labs builds practical and scalable digital products across web, mobile, backend, and SaaS platforms.
-
-We focus on clean architecture, maintainability, performance, and production-ready engineering.
-
----
-
-# Services
-
-```text
-Web Applications
-Mobile Applications
-Backend Systems
-SaaS Products
-API Development
-Maintenance & Scaling
-```
-
----
-
-# Technology Stack
+## Technology Stack
 
 <table>
 <tr>
-<td>
 
-### Frontend
-
-⚡ Next.js  
-⚡ React  
-⚡ TypeScript  
-⚡ JavaScript  
-⚡ Tailwind CSS  
-⚡ HTML5  
-⚡ CSS3  
-
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nextjs"/><br>
+<strong>Next.js</strong>
 </td>
 
-<td>
-
-### Backend
-
-⚙ Laravel  
-⚙ PHP  
-⚙ REST APIs  
-⚙ MVC Architecture  
-⚙ Service Layer Pattern  
-
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react"/><br>
+<strong>React</strong>
 </td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=ts"/><br>
+<strong>TypeScript</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind"/><br>
+<strong>Tailwind</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=laravel"/><br>
+<strong>Laravel</strong>
+</td>
+
 </tr>
 
 <tr>
-<td>
 
-### Mobile
-
-📱 Flutter  
-📱 Dart  
-
+<td align="center">
+<img src="https://skillicons.dev/icons?i=php"/><br>
+<strong>PHP</strong>
 </td>
 
-<td>
-
-### Database
-
-🗄 MySQL  
-🗄 Supabase  
-🗄 Firebase  
-
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flutter"/><br>
+<strong>Flutter</strong>
 </td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=dart"/><br>
+<strong>Dart</strong>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql"/><br>
+<strong>MySQL</strong>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=supabase"/><br>
+<strong>Supabase</strong>
+</td>
+
 </tr>
 
 <tr>
-<td>
 
-### Tools
-
-🛠 Git  
-🛠 GitHub  
-🛠 Vercel  
-🛠 VS Code  
-🛠 Postman  
-🛠 npm  
-
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git"/><br>
+<strong>Git</strong>
 </td>
 
-<td>
-
-### Engineering
-
-🏗 Clean Architecture  
-🏗 API First  
-🏗 Event Driven Systems  
-🏗 Modular Design  
-
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github"/><br>
+<strong>GitHub</strong>
 </td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel"/><br>
+<strong>Vercel</strong>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode"/><br>
+<strong>VS Code</strong>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman"/><br>
+<strong>Postman</strong>
+</td>
+
 </tr>
-
 </table>
 
 ---
 
-# Current Focus
+## What We Build
 
-Building reliable digital products with modern technologies and practical engineering.
+• Web Applications  
+• Mobile Applications  
+• Backend Systems  
+• SaaS Products  
+• API Development  
+• Maintenance & Scaling  
 
 ---
 
-# Featured Project
+## Engineering Principles
+
+→ Practical Engineering  
+→ Clean Architecture  
+→ Performance First  
+→ Long-Term Maintainability  
+
+---
+
+## Featured
 
 ### Nexora Website
 
@@ -139,14 +134,14 @@ Production-ready company website.
 
 Built with:
 
-Next.js 15 • Tailwind CSS • TypeScript • Framer Motion • Vercel
+Next.js • TypeScript • Tailwind CSS • Framer Motion
 
-→ https://nexora-website-smoky.vercel.app
+🌐 https://nexora-website-smoky.vercel.app
 
 ---
 
 <div align="center">
 
-### Build Practical · Scale Confidently
+Build Practical · Scale Confidently
 
 </div>
