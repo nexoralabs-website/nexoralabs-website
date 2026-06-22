@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nexoralabs-website/nexora-website/main/public/brand/logo-horizontal-light.png" width="300"/>
-
 # Building Scalable Digital Products
 
 Nexora Labs is a digital product engineering studio focused on building scalable, reliable, and maintainable software products.
