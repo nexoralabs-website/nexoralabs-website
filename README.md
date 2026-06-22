@@ -4,11 +4,11 @@
 
 ### Building Scalable Digital Products
 
-Digital product engineering focused on modern web applications, backend systems, mobile experiences, and scalable software architecture.
+Digital product engineering focused on scalable software, modern user experiences, and maintainable systems.
 
-<br>
+🌍 Dindigul, Tamil Nadu, India
 
-[Website](https://nexora-website-smoky.vercel.app) • [LinkedIn](https://linkedin.com) • Dindigul, India
+🌐 https://nexora-website-smoky.vercel.app
 
 </div>
 
@@ -16,68 +16,130 @@ Digital product engineering focused on modern web applications, backend systems,
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,laravel,php,flutter,dart,mysql,supabase,git,github,vercel" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,laravel,php,flutter,dart,mysql,supabase,git,github,vercel,vscode,postman"/>
 
 </div>
 
 ---
 
-## Overview
+# About
 
-Nexora Labs builds reliable digital products with a practical engineering approach.
+Nexora Labs builds practical and scalable digital products across web, mobile, backend, and SaaS platforms.
 
-We focus on creating maintainable systems, clean user experiences, scalable architectures, and production-ready workflows.
+We focus on clean architecture, maintainability, performance, and production-ready engineering.
 
 ---
 
-## Capabilities
+# Services
 
 ```text
-Web Development
+Web Applications
 Mobile Applications
 Backend Systems
 SaaS Products
-API Engineering
+API Development
 Maintenance & Scaling
 ```
 
 ---
 
-## Technology
+# Technology Stack
+
+<table>
+<tr>
+<td>
 
 ### Frontend
-Next.js • React • TypeScript • Tailwind CSS
+
+⚡ Next.js  
+⚡ React  
+⚡ TypeScript  
+⚡ JavaScript  
+⚡ Tailwind CSS  
+⚡ HTML5  
+⚡ CSS3  
+
+</td>
+
+<td>
 
 ### Backend
-Laravel • REST APIs • Service Layer Architecture
+
+⚙ Laravel  
+⚙ PHP  
+⚙ REST APIs  
+⚙ MVC Architecture  
+⚙ Service Layer Pattern  
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### Mobile
-Flutter • Dart
+
+📱 Flutter  
+📱 Dart  
+
+</td>
+
+<td>
 
 ### Database
-MySQL • Supabase
 
-### Infrastructure
-Git • GitHub • Vercel
+🗄 MySQL  
+🗄 Supabase  
+🗄 Firebase  
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Tools
+
+🛠 Git  
+🛠 GitHub  
+🛠 Vercel  
+🛠 VS Code  
+🛠 Postman  
+🛠 npm  
+
+</td>
+
+<td>
+
+### Engineering
+
+🏗 Clean Architecture  
+🏗 API First  
+🏗 Event Driven Systems  
+🏗 Modular Design  
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-## Principles
+# Current Focus
 
-• Practical Engineering  
-• Clean Architecture  
-• Performance First  
-• Long-Term Maintainability  
+Building reliable digital products with modern technologies and practical engineering.
 
 ---
 
-## Featured
+# Featured Project
 
 ### Nexora Website
 
-Production-ready company website built with:
+Production-ready company website.
 
-Next.js 15 • TypeScript • Tailwind CSS • Framer Motion
+Built with:
+
+Next.js 15 • Tailwind CSS • TypeScript • Framer Motion • Vercel
 
 → https://nexora-website-smoky.vercel.app
 
@@ -85,6 +147,6 @@ Next.js 15 • TypeScript • Tailwind CSS • Framer Motion
 
 <div align="center">
 
-Build Practical · Scale Confidently
+### Build Practical · Scale Confidently
 
 </div>
