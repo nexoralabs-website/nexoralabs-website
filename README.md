@@ -4,92 +4,80 @@
 
 ### Building Scalable Digital Products
 
-Modern web, mobile, backend, and SaaS engineering.
+Digital product engineering focused on modern web applications, backend systems, mobile experiences, and scalable software architecture.
 
-🌍 Dindigul, Tamil Nadu, India
+<br>
 
-🌐 https://nexora-website-smoky.vercel.app
+[Website](https://nexora-website-smoky.vercel.app) • [LinkedIn](https://linkedin.com) • Dindigul, India
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,laravel,php,flutter,dart,mysql,supabase,git,github,vercel" />
 
 </div>
 
 ---
 
-# What We Build
+## Overview
 
-🚀 Web Applications  
-📱 Mobile Applications  
-⚙️ Backend Systems  
-☁️ SaaS Platforms  
-🛒 E-commerce Platforms  
-🔧 Maintenance & Scaling  
+Nexora Labs builds reliable digital products with a practical engineering approach.
+
+We focus on creating maintainable systems, clean user experiences, scalable architectures, and production-ready workflows.
 
 ---
 
-# Technology Stack
+## Capabilities
+
+```text
+Web Development
+Mobile Applications
+Backend Systems
+SaaS Products
+API Engineering
+Maintenance & Scaling
+```
+
+---
+
+## Technology
 
 ### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,html,css" />
-</p>
+Next.js • React • TypeScript • Tailwind CSS
 
 ### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs" />
-</p>
+Laravel • REST APIs • Service Layer Architecture
 
 ### Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
+Flutter • Dart
 
 ### Database
+MySQL • Supabase
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,npm" />
-</p>
+### Infrastructure
+Git • GitHub • Vercel
 
 ---
 
-# Engineering Principles
+## Principles
 
-✓ Practical Engineering  
-✓ Scalable Systems  
-✓ API First Development  
-✓ Clean Architecture  
-✓ Long-Term Maintainability  
-
----
-
-# Current Focus
-
-Building reliable digital products with modern technologies and production-ready workflows.
+• Practical Engineering  
+• Clean Architecture  
+• Performance First  
+• Long-Term Maintainability  
 
 ---
 
-# Featured Project
+## Featured
 
-## Nexora Website
+### Nexora Website
 
-Built with:
+Production-ready company website built with:
 
-Next.js 15 • Tailwind CSS • TypeScript • Framer Motion • Vercel
+Next.js 15 • TypeScript • Tailwind CSS • Framer Motion
 
 → https://nexora-website-smoky.vercel.app
 
@@ -97,6 +85,6 @@ Next.js 15 • Tailwind CSS • TypeScript • Framer Motion • Vercel
 
 <div align="center">
 
-### Build Practical • Scale Confidently
+Build Practical · Scale Confidently
 
 </div>
